@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main$Generated" generated="true"><source path="E:\Coding\customer\hkey\IdCardCheckTest2\app\src\main\res"/><source path="E:\Coding\customer\hkey\IdCardCheckTest2\app\build\generated\res\rs\debug"/><source path="E:\Coding\customer\hkey\IdCardCheckTest2\app\build\generated\res\resValues\debug"/></dataSet><dataSet config="main" generated-set="main$Generated"><source path="E:\Coding\customer\hkey\IdCardCheckTest2\app\src\main\res"><file name="background" path="E:\Coding\customer\hkey\IdCardCheckTest2\app\src\main\res\drawable\background.xml" qualifiers="" type="drawable"/><file name="button_background" path="E:\Coding\customer\hkey\IdCardCheckTest2\app\src\main\res\drawable\button_background.xml" qualifiers="" type="drawable"/><file name="image_bg" path="E:\Coding\customer\hkey\IdCardCheckTest2\app\src\main\res\drawable\image_bg.xml" qualifiers="" type="drawable"/><file name="logo" path="E:\Coding\customer\hkey\IdCardCheckTest2\app\src\main\res\drawable\logo.png" qualifiers="" type="drawable"/><file name="ic_launcher" path="E:\Coding\customer\hkey\IdCardCheckTest2\app\src\main\res\drawable-hdpi\ic_launcher.png" qualifiers="hdpi-v4" type="drawable"/><file name="ic_launcher" path="E:\Coding\customer\hkey\IdCardCheckTest2\app\src\main\res\drawable-mdpi\ic_launcher.png" qualifiers="mdpi-v4" type="drawable"/><file name="ic_launcher" path="E:\Coding\customer\hkey\IdCardCheckTest2\app\src\main\res\drawable-xhdpi\ic_launcher.png" qualifiers="xhdpi-v4" type="drawable"/><file name="ic_launcher" path="E:\Coding\customer\hkey\IdCardCheckTest2\app\src\main\res\drawable-xxhdpi\ic_launcher.png" qualifiers="xxhdpi-v4" type="drawable"/><file name="acard_main" path="E:\Coding\customer\hkey\IdCardCheckTest2\app\src\main\res\layout\acard_main.xml" qualifiers="" type="layout"/><file name="acard_usb" path="E:\Coding\customer\hkey\IdCardCheckTest2\app\src\main\res\layout\acard_usb.xml" qualifiers="" type="layout"/><file name="activity_acard_main" path="E:\Coding\customer\hkey\IdCardCheckTest2\app\src\main\res\layout\activity_acard_main.xml" qualifiers="" type="layout"/><file name="activity_idcard" path="E:\Coding\customer\hkey\IdCardCheckTest2\app\src\main\res\layout\activity_idcard.xml" qualifiers="" type="layout"/><file name="activity_main" path="E:\Coding\customer\hkey\IdCardCheckTest2\app\src\main\res\layout\activity_main.xml" qualifiers="" type="layout"/><file name="activity_usb_typeacard" path="E:\Coding\customer\hkey\IdCardCheckTest2\app\src\main\res\layout\activity_usb_typeacard.xml" qualifiers="" type="layout"/><file name="bt_device_item" path="E:\Coding\customer\hkey\IdCardCheckTest2\app\src\main\res\layout\bt_device_item.xml" qualifiers="" type="layout"/><file name="dialog_devicelist" path="E:\Coding\customer\hkey\IdCardCheckTest2\app\src\main\res\layout\dialog_devicelist.xml" qualifiers="" type="layout"/><file name="idcard_main_new" path="E:\Coding\customer\hkey\IdCardCheckTest2\app\src\main\res\layout\idcard_main_new.xml" qualifiers="" type="layout"/><file name="toolbar" path="E:\Coding\customer\hkey\IdCardCheckTest2\app\src\main\res\layout\toolbar.xml" qualifiers="" type="layout"/><file name="main" path="E:\Coding\customer\hkey\IdCardCheckTest2\app\src\main\res\menu\main.xml" qualifiers="" type="menu"/><file name="please_verify" path="E:\Coding\customer\hkey\IdCardCheckTest2\app\src\main\res\raw\please_verify.wav" qualifiers="" type="raw"/><file name="read_card" path="E:\Coding\customer\hkey\IdCardCheckTest2\app\src\main\res\raw\read_card.wav" qualifiers="" type="raw"/><file name="read_fail" path="E:\Coding\customer\hkey\IdCardCheckTest2\app\src\main\res\raw\read_fail.wav" qualifiers="" type="raw"/><file name="verify_fail" path="E:\Coding\customer\hkey\IdCardCheckTest2\app\src\main\res\raw\verify_fail.wav" qualifiers="" type="raw"/><file name="verify_success" path="E:\Coding\customer\hkey\IdCardCheckTest2\app\src\main\res\raw\verify_success.wav" qualifiers="" type="raw"/><file path="E:\Coding\customer\hkey\IdCardCheckTest2\app\src\main\res\values\colors.xml" qualifiers=""><color name="colorPrimary">#3485FF</color><color name="colorPrimaryDark">#1874CD</color><color name="colorAccent">#FFFFFF</color></file><file path="E:\Coding\customer\hkey\IdCardCheckTest2\app\src\main\res\values\dimens.xml" qualifiers=""><dimen name="activity_horizontal_margin">16dp</dimen><dimen name="activity_vertical_margin">16dp</dimen></file><file path="E:\Coding\customer\hkey\IdCardCheckTest2\app\src\main\res\values\strings.xml" qualifiers=""><string name="app_name">二代证认证程序</string><string name="hello_world">Hello world!</string><string name="mode_select">请选择读卡器类型</string><string name="mode_serial">串口读卡器</string><string name="mode_usb">USB读卡器（身份证）</string><string name="tmode_usb">USB读卡器（Type A 卡）</string><string name="mode_bluetooth">蓝牙读卡器</string><string name="tmode_serial">串口读卡器（Type A 卡）</string><string name="idcard_czz">操作中</string><string name="idcard_ljdkq">连接读卡器...</string><string name="idcard_ljdkqcg">连接读卡器成功</string><string name="idcard_wfljdkq">无法连接读卡器</string><string name="tacard_TAyz">Type A卡阅读器</string><string name="tacard_myrz">请输入所需读取Type A卡扇区号及block号（如第0扇区第0block则输入"0000"），以及该区对应密钥</string><string name="tacard_qsrmy">请输入密钥</string><string name="idcard_my">密钥：</string><string name="idcard_typeA">type A卡读写系统</string><string name="tacard_mybnwk">密钥 不能为空</string><string name="tacard_blockbnwk">扇区号和block号不能为空</string><string name="tacard_qbqxx">请补全信息</string><string name="tacard_myyzcg">密钥验证成功,卡内数据已读取</string><string name="tacard_zzdqknsj">密钥验证成功,正在读取卡内数据</string><string name="tacard_knsjydq">卡内数据已读取</string><string name="tacard_dqknsjsb">读取卡内数据失败</string><string name="tacard_mycw">密钥错误，请重新输入密码</string><string name="tacard_knsj">卡内数据：</string><string name="tacard_qxrsj">请写入数据</string><string name="tacard_xrsjcg">写入数据成功</string><string name="tacard_xrsjsb">写入数据失败，请重新输入</string><string name="tacard_xrsjbnwk">写入数据不能为空,请重新输入</string><string name="tacard_qr">确认</string><string name="tacard_qrxr">确认写入</string><string name="tacard_xrsj">写入数据</string><string name="idcard_dqsbhcs">未读取到身份证</string><string name="idcard_hqqxsb">获取权限失败</string><string name="idcard_hqqxcg">获取权限成功</string><string name="idcard_kh">卡号：</string><string name="idcard_sqh">扇区号及block号：</string><string name="idcard_sbljcg">设备连接成功</string><string name="idcard_xm">姓名：</string><string name="idcard_xb">性别：</string><string name="idcard_mz">民族：</string><string name="idcard_csrq">出生日期：</string><string name="idcard_dz">地址：</string><string name="idcard_sfhm">身份号码：</string><string name="idcard_qzjg">签发机关：</string><string name="idcard_yxqx">"有效期限："</string><string name="idcard_hqsfzxx">获取身份证信息</string><string name="idcard_dkts">请将身份证放到读卡器读卡区域......</string><string name="idcard_zbdsfsbmk">找不到识别模块</string><string name="idcard_wazsfsbmk">未安装身份证识别模块，是否安装？</string><string name="idcard_azsb">安装失败</string><string name="idcard_xzgn">选择功能</string><string name="idcard_xzsfsbfs">请选择身份证识别方式</string><string name="idcard_sxtsb">摄像头OCR识别</string><string name="idcard_dkqsb">"二代证读卡器识别"</string><string name="idcard_usbdkq">"USB读卡器"</string><string name="idcard_ckdkq">"串口读卡器"</string><string name="get_id_front_fail">获取身份证正面信息失败</string><string name="identify_fail">未安装API模块，无法进行二维码/身份证识别</string><string name="idcard_xzsbzfm">请选择识别身份证正反面</string><string name="idcard_xzdkqlx">请选择读卡器类型</string><string name="idcard_front">正面</string><string name="idcard_back">反面</string><string name="get_id_back_fail">获取身份证反面信息失败</string><string name="bl_xsdxx">显示的信息</string><string name="bl_hqqx">获取USB权限</string><string name="bl_hqsfzxx">获取身份证信息</string><string name="idcard_not_find_usb_demo">找不到apk</string><string name="idcard_sam">读卡器SAM编号</string><string name="idcard_hqdkqsam">获取读卡器Sam编号中</string><string name="idcard_hqsamsb">获取SAM编号失败</string><string name="idcard_cn_name">中文姓名：</string><string name="idcard_country">国籍或所在地区代码：</string><string name="idcard_version">证件版本号：</string><string name="idcard_zwxx">指纹信息：</string><string name="idcard_ysmz">右手拇指</string><string name="idcard_yssz">右手食指</string><string name="idcard_yszz">右手中指</string><string name="idcard_yshz">右手环指</string><string name="idcard_ysxz">右手小指</string><string name="idcard_zsmz">左手拇指</string><string name="idcard_zssz">左手食指</string><string name="idcard_zszz">左手中指</string><string name="idcard_zshz">左手环指</string><string name="idcard_zsxz">左手小指</string><string name="idcard_ysbqdzw">右手不确定指位</string><string name="idcard_zsbqdzw">左手不确定指位</string><string name="idcard_qtbqdzw">其他不确定指位</string><string name="idcard_zwwz">指位未知</string><string name="idcard_zccg">注册成功</string><string name="idcard_zcsb">注册失败</string><string name="idcard_wzc">未注册</string><string name="idcard_zcztwz">注册状态未知</string><string name="idcard_zwzl">指纹质量=</string><string name="idcard_wdqhbhzw">(指纹未读取或不含指纹)</string><string name="idcard_qfk">请放卡</string><string name="idcard_qhqqx">请获取权限</string><string name="idcard_djs">倒计时</string><string name="idcard_cscs">测试次数</string><string name="idcard_sbcs">失败次数</string><string name="idcard_cgcs">成功次数</string><string name="idcard_read_once">读卡</string><string name="idcard_start_read">开始循环读卡</string><string name="idcard_stop_read">停止循环读卡</string><string name="fprint_wzwy">未找到指纹仪设备</string><string name="fprint_qyzzw">请验证指纹</string><string name="fprint_zwydkz">指纹仪打开中</string><string name="fprint_ppcg">指纹仪认证成功</string><string name="fprint_ppsb">指纹仪认证失败</string><string name="fprint_ppfs">匹配分数：</string><string name="bt_scan_item_name">名称</string><string name="bt_scan_item_mac">Mac地址</string><string name="bt_scan_item_rssi">强度</string></file><file path="E:\Coding\customer\hkey\IdCardCheckTest2\app\src\main\res\values\styles.xml" qualifiers=""><style name="AppBaseTheme" parent="android:Theme.Holo.Light.NoActionBar.Fullscreen">
+        
+    </style><style name="AppTheme" parent="AppBaseTheme">
+        
+    </style><style name="SimpleWhiteTextView">
+        <item name="android:textColor">#333</item>
+        <item name="android:gravity">center_horizontal</item>
+        <item name="android:textSize">20dp</item>
+    </style><style name="buttonNumberStyle">
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">50dp</item>
+        <item name="android:textColor">#FFFFFF</item>
+        <item name="android:gravity">center</item>
+        <item name="android:textSize">16sp</item>
+    </style><style name="buttonClearBackStyle">
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">53dp</item>
+        <item name="android:textColor">#000000</item>
+        <item name="android:textSize">25px</item>
+        <item name="android:layout_weight">1</item>
+    </style><style name="buttonFunctionStyle">
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">53dp</item>
+        <item name="android:textColor">#FFFFFF</item>
+        <item name="android:textSize">25px</item>
+        <item name="android:layout_weight">1</item>
+    </style><style name="SimpleButtonStyle">
+        <item name="android:layout_width">200dp</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textColor">#fff</item>
+        <item name="android:layout_margin">10dp</item>
+    </style><style name="buttonFunctionDetailStyle">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">84dp</item>
+        <item name="android:textColor">#737cb1</item>
+        <item name="android:textSize">25px</item>
+    </style><style name="buttonFunctionDetailStyle1">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">match_parent</item>
+        <item name="android:textColor">#737cb1</item>
+    </style><style name="buttonFunctionDetailStyle2">
+        <item name="android:textColor">#737cb1</item>
+    </style><style name="tvSfmxListStyle">
+        <item name="android:layout_height">50dp</item>
+        <item name="android:textColor">#000000</item>
+        <item name="android:textSize">16px</item>
+        <item name="android:gravity">center</item>
+    </style><style name="tvSfmxListStyle1">
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textColor">#000000</item>
+        <item name="android:textSize">16px</item>
+        <item name="android:gravity">center</item>
+    </style><style name="tvTitleStyle">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textColor">#000000</item>
+        <item name="android:textSize">20sp</item>
+    </style><style name="orangeCheckStyle">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textColor">#000000</item>
+        <item name="android:textSize">18sp</item>
+        <item name="android:textStyle">bold</item>
+    </style><style name="violetCheckStyle">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textColor">#000000</item>
+        <item name="android:textSize">18sp</item>
+        <item name="android:textStyle">normal</item>
+    </style><style name="FullHeightDialog" parent="android:style/Theme.Dialog">
+        <item name="android:windowNoTitle">true</item>
+    </style><style name="Divider">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">1dp</item>
+        <item name="android:background">#fff</item>
+    </style><style name="Vertical_Divider">
+        <item name="android:layout_width">1dp</item>
+        <item name="android:layout_height">match_parent</item>
+        <item name="android:background">#fff</item>
+    </style></file><file path="E:\Coding\customer\hkey\IdCardCheckTest2\app\src\main\res\values-v11\styles.xml" qualifiers="v11"><style name="AppBaseTheme" parent="android:Theme.Holo.Light">
+        
+    </style></file><file path="E:\Coding\customer\hkey\IdCardCheckTest2\app\src\main\res\values-v14\styles.xml" qualifiers="v14"><style name="AppBaseTheme" parent="android:Theme.Holo.Light.DarkActionBar">
+        
+    </style></file><file path="E:\Coding\customer\hkey\IdCardCheckTest2\app\src\main\res\values-w820dp\dimens.xml" qualifiers="w820dp-v13"><dimen name="activity_horizontal_margin">64dp</dimen></file><file name="device_filter" path="E:\Coding\customer\hkey\IdCardCheckTest2\app\src\main\res\xml\device_filter.xml" qualifiers="" type="xml"/></source><source path="E:\Coding\customer\hkey\IdCardCheckTest2\app\build\generated\res\rs\debug"/><source path="E:\Coding\customer\hkey\IdCardCheckTest2\app\build\generated\res\resValues\debug"/></dataSet><dataSet config="debug$Generated" generated="true"><source path="E:\Coding\customer\hkey\IdCardCheckTest2\app\src\debug\res"/></dataSet><dataSet config="debug" generated-set="debug$Generated"><source path="E:\Coding\customer\hkey\IdCardCheckTest2\app\src\debug\res"/></dataSet><mergedItems/></merger>

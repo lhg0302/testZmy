@@ -1,0 +1,52 @@
+ECLIPSE ANDROID PROJECT IMPORT SUMMARY
+======================================
+
+Ignored Files:
+--------------
+The following files were *not* copied into the new Gradle project; you
+should evaluate whether these are still needed in your project and if
+so manually move them:
+
+* .idea\
+* .idea\IdCardCheckTest.iml
+* .idea\misc.xml
+* .idea\modules.xml
+* .idea\workspace.xml
+* ic_launcher-web.png
+* proguard-project.txt
+
+Moved Files:
+------------
+Android Gradle projects use a different directory structure than ADT
+Eclipse projects. Here's how the projects were restructured:
+
+* AndroidManifest.xml => app\src\main\AndroidManifest.xml
+* assets\ => app\src\main\assets
+* libs\armeabi\libidcard.so => app\src\main\jniLibs\armeabi\libidcard.so
+* libs\armeabi\libImageProc.so => app\src\main\jniLibs\armeabi\libImageProc.so
+* libs\armeabi\libposutil.so => app\src\main\jniLibs\armeabi\libposutil.so
+* libs\armeabi\libserial_port.so => app\src\main\jniLibs\armeabi\libserial_port.so
+* libs\armeabi\libsystem_util.so => app\src\main\jniLibs\armeabi\libsystem_util.so
+* libs\armeabi\libwlt2bmp.so => app\src\main\jniLibs\armeabi\libwlt2bmp.so
+* libs\armeabi\libzkwltdecode.so => app\src\main\jniLibs\armeabi\libzkwltdecode.so
+* libs\core-3.1.0.jar => app\libs\core-3.1.0.jar
+* libs\PosUtil.jar => app\libs\PosUtil.jar
+* libs\telpo_api.jar => app\libs\telpo_api.jar
+* libs\telpo_usb_idcardapi.jar => app\libs\telpo_usb_idcardapi.jar
+* res\ => app\src\main\res\
+* src\ => app\src\main\java\
+
+Next Steps:
+-----------
+You can now build the project. The Gradle project needs network
+connectivity to download dependencies.
+
+Bugs:
+-----
+If for some reason your project does not build, and you determine that
+it is due to a bug or limitation of the Eclipse to Gradle importer,
+please file a bug at http://b.android.com with category
+Component-Tools.
+
+(This import summary is for your information only, and can be deleted
+after import once you are satisfied with the results.)

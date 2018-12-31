@@ -1,0 +1,102 @@
+[
+    {
+        "merged": "E:\\Coding\\customer\\hkey\\IdCardCheckTest2\\app\\build\\intermediates\\res\\merged\\debug\\layout_acard_usb.xml.flat",
+        "source": "E:\\Coding\\customer\\hkey\\IdCardCheckTest2\\app\\src\\main\\res\\layout\\acard_usb.xml"
+    },
+    {
+        "merged": "E:\\Coding\\customer\\hkey\\IdCardCheckTest2\\app\\build\\intermediates\\res\\merged\\debug\\drawable_image_bg.xml.flat",
+        "source": "E:\\Coding\\customer\\hkey\\IdCardCheckTest2\\app\\src\\main\\res\\drawable\\image_bg.xml"
+    },
+    {
+        "merged": "E:\\Coding\\customer\\hkey\\IdCardCheckTest2\\app\\build\\intermediates\\res\\merged\\debug\\raw_verify_fail.wav.flat",
+        "source": "E:\\Coding\\customer\\hkey\\IdCardCheckTest2\\app\\src\\main\\res\\raw\\verify_fail.wav"
+    },
+    {
+        "merged": "E:\\Coding\\customer\\hkey\\IdCardCheckTest2\\app\\build\\intermediates\\res\\merged\\debug\\layout_bt_device_item.xml.flat",
+        "source": "E:\\Coding\\customer\\hkey\\IdCardCheckTest2\\app\\src\\main\\res\\layout\\bt_device_item.xml"
+    },
+    {
+        "merged": "E:\\Coding\\customer\\hkey\\IdCardCheckTest2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_launcher.png.flat",
+        "source": "E:\\Coding\\customer\\hkey\\IdCardCheckTest2\\app\\src\\main\\res\\drawable-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\Coding\\customer\\hkey\\IdCardCheckTest2\\app\\build\\intermediates\\res\\merged\\debug\\drawable_background.xml.flat",
+        "source": "E:\\Coding\\customer\\hkey\\IdCardCheckTest2\\app\\src\\main\\res\\drawable\\background.xml"
+    },
+    {
+        "merged": "E:\\Coding\\customer\\hkey\\IdCardCheckTest2\\app\\build\\intermediates\\res\\merged\\debug\\menu_main.xml.flat",
+        "source": "E:\\Coding\\customer\\hkey\\IdCardCheckTest2\\app\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "E:\\Coding\\customer\\hkey\\IdCardCheckTest2\\app\\build\\intermediates\\res\\merged\\debug\\drawable_logo.png.flat",
+        "source": "E:\\Coding\\customer\\hkey\\IdCardCheckTest2\\app\\src\\main\\res\\drawable\\logo.png"
+    },
+    {
+        "merged": "E:\\Coding\\customer\\hkey\\IdCardCheckTest2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_launcher.png.flat",
+        "source": "E:\\Coding\\customer\\hkey\\IdCardCheckTest2\\app\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\Coding\\customer\\hkey\\IdCardCheckTest2\\app\\build\\intermediates\\res\\merged\\debug\\raw_please_verify.wav.flat",
+        "source": "E:\\Coding\\customer\\hkey\\IdCardCheckTest2\\app\\src\\main\\res\\raw\\please_verify.wav"
+    },
+    {
+        "merged": "E:\\Coding\\customer\\hkey\\IdCardCheckTest2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_launcher.png.flat",
+        "source": "E:\\Coding\\customer\\hkey\\IdCardCheckTest2\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\Coding\\customer\\hkey\\IdCardCheckTest2\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_idcard.xml.flat",
+        "source": "E:\\Coding\\customer\\hkey\\IdCardCheckTest2\\app\\src\\main\\res\\layout\\activity_idcard.xml"
+    },
+    {
+        "merged": "E:\\Coding\\customer\\hkey\\IdCardCheckTest2\\app\\build\\intermediates\\res\\merged\\debug\\layout_toolbar.xml.flat",
+        "source": "E:\\Coding\\customer\\hkey\\IdCardCheckTest2\\app\\src\\main\\res\\layout\\toolbar.xml"
+    },
+    {
+        "merged": "E:\\Coding\\customer\\hkey\\IdCardCheckTest2\\app\\build\\intermediates\\res\\merged\\debug\\layout_idcard_main_new.xml.flat",
+        "source": "E:\\Coding\\customer\\hkey\\IdCardCheckTest2\\app\\src\\main\\res\\layout\\idcard_main_new.xml"
+    },
+    {
+        "merged": "E:\\Coding\\customer\\hkey\\IdCardCheckTest2\\app\\build\\intermediates\\res\\merged\\debug\\layout_dialog_devicelist.xml.flat",
+        "source": "E:\\Coding\\customer\\hkey\\IdCardCheckTest2\\app\\src\\main\\res\\layout\\dialog_devicelist.xml"
+    },
+    {
+        "merged": "E:\\Coding\\customer\\hkey\\IdCardCheckTest2\\app\\build\\intermediates\\res\\merged\\debug\\raw_verify_success.wav.flat",
+        "source": "E:\\Coding\\customer\\hkey\\IdCardCheckTest2\\app\\src\\main\\res\\raw\\verify_success.wav"
+    },
+    {
+        "merged": "E:\\Coding\\customer\\hkey\\IdCardCheckTest2\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_acard_main.xml.flat",
+        "source": "E:\\Coding\\customer\\hkey\\IdCardCheckTest2\\app\\src\\main\\res\\layout\\activity_acard_main.xml"
+    },
+    {
+        "merged": "E:\\Coding\\customer\\hkey\\IdCardCheckTest2\\app\\build\\intermediates\\res\\merged\\debug\\drawable_button_background.xml.flat",
+        "source": "E:\\Coding\\customer\\hkey\\IdCardCheckTest2\\app\\src\\main\\res\\drawable\\button_background.xml"
+    },
+    {
+        "merged": "E:\\Coding\\customer\\hkey\\IdCardCheckTest2\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "E:\\Coding\\customer\\hkey\\IdCardCheckTest2\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "E:\\Coding\\customer\\hkey\\IdCardCheckTest2\\app\\build\\intermediates\\res\\merged\\debug\\raw_read_card.wav.flat",
+        "source": "E:\\Coding\\customer\\hkey\\IdCardCheckTest2\\app\\src\\main\\res\\raw\\read_card.wav"
+    },
+    {
+        "merged": "E:\\Coding\\customer\\hkey\\IdCardCheckTest2\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_usb_typeacard.xml.flat",
+        "source": "E:\\Coding\\customer\\hkey\\IdCardCheckTest2\\app\\src\\main\\res\\layout\\activity_usb_typeacard.xml"
+    },
+    {
+        "merged": "E:\\Coding\\customer\\hkey\\IdCardCheckTest2\\app\\build\\intermediates\\res\\merged\\debug\\raw_read_fail.wav.flat",
+        "source": "E:\\Coding\\customer\\hkey\\IdCardCheckTest2\\app\\src\\main\\res\\raw\\read_fail.wav"
+    },
+    {
+        "merged": "E:\\Coding\\customer\\hkey\\IdCardCheckTest2\\app\\build\\intermediates\\res\\merged\\debug\\xml_device_filter.xml.flat",
+        "source": "E:\\Coding\\customer\\hkey\\IdCardCheckTest2\\app\\src\\main\\res\\xml\\device_filter.xml"
+    },
+    {
+        "merged": "E:\\Coding\\customer\\hkey\\IdCardCheckTest2\\app\\build\\intermediates\\res\\merged\\debug\\layout_acard_main.xml.flat",
+        "source": "E:\\Coding\\customer\\hkey\\IdCardCheckTest2\\app\\src\\main\\res\\layout\\acard_main.xml"
+    },
+    {
+        "merged": "E:\\Coding\\customer\\hkey\\IdCardCheckTest2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_launcher.png.flat",
+        "source": "E:\\Coding\\customer\\hkey\\IdCardCheckTest2\\app\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    }
+]
